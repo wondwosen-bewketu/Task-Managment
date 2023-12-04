@@ -82,7 +82,7 @@ function App() {
     
     <Header/>
     <div className="max-w-2xl p-8 bg-white shadow-md rounded-md">
-      <h1 className="text-3xl font-bold mb-4">Add Task's</h1>
+      <h1 className="text-3xl font-bold mb-4">Add Tasks</h1>
 
       <TaskForm
         onAddTask={handleAddTask}
